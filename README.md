@@ -13,7 +13,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xflihaibo)](https://github.com/xflihaibo/docs)
 -->
 
-<!--
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xflihaibo&repo=docs)](https://github.com/xflihaibo/docs)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xflihaibo&repo=regexp)](https://github.com/xflihaibo/regexp) 
--->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alltheblue&repo=docs)](https://github.com/alltheblue/docs) 
+
