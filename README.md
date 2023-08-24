@@ -1,7 +1,13 @@
+<h1 align="center">Hi 
+    <img src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif" width="60px" height="70px">我是幸福拾荒者
+</h1>
+
+
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=xflihaibo&show_icons=true?&hide_title=true" width="400px" style="margin-left:20px;"  />
 
 
-- 👋 **「欢迎你呀」** 你好！ 我是幸福拾荒者， 欢迎来我的Github，很荣幸在这里与你相遇！
+- 👋 **「欢迎你呀」** 你好！欢迎来我的Github，很荣幸在这里与你相遇！
 
 
 
