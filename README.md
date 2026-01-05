@@ -27,6 +27,7 @@
 
     +  [一个很有诗意的前端知识博客](https://xflihaibo.github.io/docs/#/)
     +  [千面书签:](https://xflihaibo.github.io/bookmark/#/) 一个现代化的个人导航主页，提供主题切换、企业链接管理、书签分类、快捷链接、待办事项等功能。
+    +  [感官流:](https://github.com/xflihaibo/sensoryflow) SensoryFlow 是一款打破传统浏览器视觉体验的谷歌插件。它能像“视觉实验室”一样，根据当前网页的情绪（内容、类型）自动适配氛围滤镜和物理交互特效，将枯燥的网页浏览转化为一场沉浸式的数字感官之旅。
 
       🎨 主题切换
       🏢 企业链接
