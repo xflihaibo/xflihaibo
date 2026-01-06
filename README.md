@@ -26,7 +26,7 @@
       + 自动化运行定时任务以及测试结果推送机制
 
     +  [一个很有诗意的前端知识博客](https://xflihaibo.github.io/docs/#/)
-    +  [千面书签:](https://xflihaibo.github.io/bookmark/#/) 一个现代化的个人导航主页，提供主题切换、企业链接管理CDN配置、主题配置、书签分类、快捷链接、待办事项、日历等功能。
+    +  [千面书签:](https://xflihaibo.github.io/bookmark/#/) 一个现代化的个人导航主页，提供主题切换、企业链接管理CDN配置、主题配置、书签分类、快捷链接、待办事项、日历等功能的谷歌插件。
     +  [感官流:](https://github.com/xflihaibo/sensoryflow) SensoryFlow 是一款打破传统浏览器视觉体验的谷歌插件。它能像“视觉实验室”一样，根据当前网页的情绪（内容、类型）自动适配氛围滤镜和物理交互特效，将枯燥的网页浏览转化为一场沉浸式的数字感官之旅。
     +  [Y2K-ifier](https://github.com/xflihaibo/Y2K-ifier) 是一款专为怀旧者、设计爱好者和开发者打造的 Google Chrome 扩展插件（Manifest V3）。它通过“手术级”的 CSS 注入和 DOM 操控技术，将现代扁平化、现代化的网页瞬间重塑为 2000 年代初期的经典复古样式。
 
