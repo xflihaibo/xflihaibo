@@ -30,6 +30,7 @@
     +  [感官流:](https://github.com/xflihaibo/sensoryflow) SensoryFlow 是一款打破传统浏览器视觉体验的谷歌插件。它能像“视觉实验室”一样，根据当前网页的情绪（内容、类型）自动适配氛围滤镜和物理交互特效，将枯燥的网页浏览转化为一场沉浸式的数字感官之旅。
     +  [Y2K-ifier](https://github.com/xflihaibo/Y2K-ifier) 是一款专为怀旧者、设计爱好者和开发者打造的 Google Chrome 扩展插件（Manifest V3）。它通过“手术级”的 CSS 注入和 DOM 操控技术，将现代扁平化、现代化的网页瞬间重塑为 2000 年代初期的经典复古样式。
     +  [伴影:](https://github.com/xflihaibo/shadowmate) Shadow Mate「伴影」是一款专注于每日数字生活感性回顾的 Chrome 扩展程序。它不仅精准记录你的浏览统计，更通过独有的“私语引擎”将枯燥的数据转译为富有情感温度的叙事化总结。
+    +  [尺素:](https://github.com/xflihaibo/ChiSu)  ChiSu (尺素) 是一款专为网页开发者和 UI 设计师打造的沉浸式辅助工具。它通过无损的 Shadow DOM 技术注入，确保在任何复杂网页上都能稳定运行，且不产生样式冲突。
 
 
       🎨 主题切换
