@@ -1,41 +1,83 @@
-<h1 align="center">Hi 
-    <img src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif" width="60px" height="70px">我是幸福拾荒者
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+👋+,+我是幸福拾荒者;前端全栈开发+✨;热爱探索+·+不务正业的技术极客" alt="Typing SVG" />
+</div>
 
+<br/>
 
+<div align="center">
+  <a href="https://github.com/xflihaibo"><img src="https://komarev.com/ghpvc/?username=xflihaibo&color=brightgreen&style=flat-square&label=Visitor+Count" alt="Visitor Count" /></a>
+  <a href="https://github.com/xflihaibo?tab=followers"><img src="https://img.shields.io/github/followers/xflihaibo?label=Followers&style=flat-square&color=blue" alt="Followers" /></a>
+  <a href="https://github.com/xflihaibo"><img src="https://img.shields.io/github/stars/xflihaibo?style=flat-square&color=yellow" alt="Total Stars" /></a>
+</div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=xflihaibo&show_icons=true?&hide_title=true" width="400px" style="margin-left:20px;"  />
+---
 
+### 🚀 关于我 / About Me
 
-- 👋 **「欢迎你呀」** 你好！欢迎来我的Github，很荣幸在这里与你相遇！
+- 💻 **「主业」**：前端全栈开发，热爱钻研技术边界。
+- 🛠 **「兴趣领域」**：谷歌插件（Chrome Extension）开发、桌面端应用（Desktop）、Node.js 生态。
+- 🧪 **「折腾过的事」**：除业务开发外，曾涉猎前端监控、自动化测试系统、各类现代化浏览器插件。
+- 💡 **「自嘲」**：一个喜欢在代码世界里“拾荒”的不务正业的前端开发者。
 
+---
 
+### 🧰 技术栈 / Tech Stack
 
-- 👀 **「个人介绍」**  前端全栈开发
-    + 除前端开发技能之外 对谷歌插件开发、桌面端开发、node开发比较感兴趣 喜欢专研 自嘲自己是一个不务正业的前端的开发
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,vue,nodejs,electron,html,css,git,github,vscode" />
+</div>
 
-    + 做过： 除业务之外，搞过前端监控、 自动化测试，桌面端开发、谷歌插件开发
+---
 
+### 🌟 最近维护与代表项目 / Featured Projects
 
-- 🌱 **「最近维护项目」** 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧩 浏览器插件系列 (Chrome Extensions)</h3>
+      <ul>
+        <li>
+          <b><a href="https://xflihaibo.github.io/bookmark/#/">千面书签</a></b>：现代化个人导航主页，支持主题切换、企业链接管理、书签分类、待办与日历。
+        </li>
+        <li>
+          <b><a href="https://github.com/xflihaibo/sensoryflow">感官流 (SensoryFlow)</a></b>：数字感官之旅插件，根据网页情绪自动适配氛围滤镜与物理交互特效。
+        </li>
+        <li>
+          <b><a href="https://github.com/xflihaibo/Y2K-ifier">Y2K-ifier</a></b>：Manifest V3 插件，通过“手术级”CSS 注入，将现代网页一键重塑为 2000 年代初期的复古 Y2K 风格。
+        </li>
+        <li>
+          <b><a href="https://github.com/xflihaibo/shadowmate">伴影 (Shadow Mate)</a></b>：数字生活感性回顾插件，用“私语引擎”将浏览数据转译为有温度的叙事化总结。
+        </li>
+        <li>
+          <b><a href="https://github.com/xflihaibo/ChiSu">尺素 (ChiSu)</a></b>：专为开发者和设计师打造的无损 Shadow DOM 沉浸式辅助工具。
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠 工具与博客系列 (Tools & Blog)</h3>
+      <ul>
+        <li>
+          <b><a href="https://github.com/alltheblue/docs">eTest</a></b>：零代码、自动化集成测试工具，具备完善的测试报告与定时任务推送机制。
+        </li>
+        <li>
+          <b><a href="https://xflihaibo.github.io/docs/#/">前端知识博客</a></b>：一个很有诗意的前端知识库与博客。
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-    + [eTest](https://github.com/alltheblue/docs) 一个简单易用的集成测试工具
-      + 0代码，自动化测试
-      + 完善的测试报告
-      + 强大的扩展能力
-      + 自动化运行定时任务以及测试结果推送机制
+---
 
-    +  [一个很有诗意的前端知识博客](https://xflihaibo.github.io/docs/#/)
-    +  [千面书签:](https://xflihaibo.github.io/bookmark/#/) 一个现代化的个人导航主页，提供主题切换、企业链接管理CDN配置、主题配置、书签分类、快捷链接、待办事项、日历等功能的谷歌插件。
-    +  [感官流:](https://github.com/xflihaibo/sensoryflow) SensoryFlow 是一款打破传统浏览器视觉体验的谷歌插件。它能像“视觉实验室”一样，根据当前网页的情绪（内容、类型）自动适配氛围滤镜和物理交互特效，将枯燥的网页浏览转化为一场沉浸式的数字感官之旅。
-    +  [Y2K-ifier](https://github.com/xflihaibo/Y2K-ifier) 是一款专为怀旧者、设计爱好者和开发者打造的 Google Chrome 扩展插件（Manifest V3）。它通过“手术级”的 CSS 注入和 DOM 操控技术，将现代扁平化、现代化的网页瞬间重塑为 2000 年代初期的经典复古样式。
-    +  [伴影:](https://github.com/xflihaibo/shadowmate) Shadow Mate「伴影」是一款专注于每日数字生活感性回顾的 Chrome 扩展程序。它不仅精准记录你的浏览统计，更通过独有的“私语引擎”将枯燥的数据转译为富有情感温度的叙事化总结。
-    +  [尺素:](https://github.com/xflihaibo/ChiSu)  ChiSu (尺素) 是一款专为网页开发者和 UI 设计师打造的沉浸式辅助工具。它通过无损的 Shadow DOM 技术注入，确保在任何复杂网页上都能稳定运行，且不产生样式冲突。
+### 📊 GitHub 统计 / GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xflihaibo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xflihaibo&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
 
+<br/>
 
-   
-
-
-
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xflihaibo&theme=tokyonight&hide_border=true" width="100%" />
+</div>
